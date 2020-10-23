@@ -1,6 +1,6 @@
 ## Add bot
 # =============> [Nobita](https://discord.com/oauth2/authorize?client_id=627531554255798282&scope=bot&permissions=2147351783) <=============
-# Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
+### Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
 > **Image**
 #### `girl` Show girl pictures (almost asian cute girl)
 >  **Info**
@@ -50,6 +50,5 @@
 ##### `pat` Pat someone
 ##### `pray` Pray for someone
 ##### `slap` Slap someone
-> If you need help ->  join  [support server](https://discord.gg/zCmChpX)
 # If you wanna buy a bot like that with cheap prize [contact me](https://discord.gg/zCmChpX)
 >  Need help => Join [support server](https://discord.gg/zCmChpX) 
