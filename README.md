@@ -1,6 +1,4 @@
-<a href="https://top.gg/bot/627531554255798282">
-    <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
-</a>
+
 ## Add bot
 # =============> [Nobita](https://discord.com/oauth2/authorize?client_id=627531554255798282&scope=bot&permissions=305523943) <=============
 ### Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
