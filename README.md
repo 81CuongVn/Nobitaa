@@ -23,8 +23,8 @@
 ##### 
 ##### `beautiful` | `delete` | `kiss` | `pat` | `pray` | `slap` |
 ##### 
-### If you wanna buy a bot like that with cheap prize [contact me](https://discord.gg/zCmChpX)
+### If you wanna buy a bot like that with cheap prize [contact me](https://discord.gg/zCmChpX) and [support server](https://discord.gg/zCmChpX) 
 <a href="https://top.gg/bot/627531554255798282">
     <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
 </a>
-##### Need help => Join [support server](https://discord.gg/zCmChpX) 
+
