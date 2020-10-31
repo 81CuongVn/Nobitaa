@@ -27,4 +27,5 @@
 <a href="https://top.gg/bot/627531554255798282">
     <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
 </a>
->  Need help => Join [support server](https://discord.gg/zCmChpX) 
+#####
+ > Need help => Join [support server](https://discord.gg/zCmChpX) 
