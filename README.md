@@ -20,7 +20,7 @@
 #####
 ##### `help` | `invite` | `advice` | `calculate` | `meme` | `imovie` | `ping` |  `poll` | `suggest` | `translate` | `weather` |
 ##### 
-##### > **React**
+ > **React**
 ##### 
 ##### `beautiful` | `delete` | `kiss` | `pat` | `pray` | `slap` |
 ##### 
