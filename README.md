@@ -1,10 +1,9 @@
 
 ## Add bot
-# =============> [Nobita](https://discord.com/oauth2/authorize?client_id=627531554255798282&scope=bot&permissions=305523943) <=============
+# =============> [Nobita](https://discord.com/oauth2/authorize?client_id=627531554255798282&scope=bot&permissions=8) <=============
 ### Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
 
-> **Image**
-#### `girl` Show girl pictures (almost asian cute girl)
+
 >  **Info**
 
 ##### `avatar` | `corona` | `developer` | `link` | `serverinfo` | `userinfo` | `wolf` |
@@ -29,3 +28,5 @@
     <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
 </a>
 
+<blockquote class="embedly-card"><h4><a href="https://top.gg/bot/627531554255798282">Nobita</a></h4><p>DND Nobita 82 discord.js Nobita is a powerful bot with invite tracking, music and a lot of funcions This Bot Powers the Following Communities: avatar | botinfo | corona | developer | donate | feedback | rolemember | instagram-user | link | roleinfo | serverinfo | tiktok-user | userinfo |</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
