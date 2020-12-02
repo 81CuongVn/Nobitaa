@@ -1,10 +1,10 @@
 
 ## Add bot
 # =============> [Nobita](https://discord.com/oauth2/authorize?client_id=627531554255798282&scope=bot&permissions=8) <=============
-### Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
-
-
-# Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
+### Nobita is a powerful bot with 100+ commands *(updating..)*
+<a
+href="https://top.gg/bot/627531554255798282">
+</a>
 
 ## >  **Info**
 #####
@@ -31,8 +31,8 @@
 
 ### If you wanna buy a bot like that with cheap price [contact me](https://discord.gg/zCmChpX) in [suppot server](https://discord.gg/zCmChpX) 
 
-### If you wanna buy a bot like that with cheap prize [contact me](https://discord.gg/zCmChpX) and [support server](https://discord.gg/zCmChpX) 
-<a href="https://top.gg/bot/627531554255798282">
+<a 
     <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
 </a>
+
 
