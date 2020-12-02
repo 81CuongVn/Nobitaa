@@ -4,25 +4,33 @@
 ### Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
 
 
->  **Info**
+# Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
 
-##### `avatar` | `corona` | `developer` | `link` | `serverinfo` | `userinfo` | `wolf` |
+## >  **Info**
+#####
+##### `avatar` | `botinfo` | `corona` | `developer` | `donate` | `feedback` | `rolemember` | `instagram-user` | `link` | `roleinfo` | `serverinfo` | `tiktok-user` | `userinfo` | `wikipedia` | `wolf` | `snipe` |
+   
+## > **Image**:
+##### `dog` | `food` | `foxgirl` | `kemonomimi` | `magik` | `meow` | `neko` | `randomlogo` | `randomavatar` | `respect` | `randomwallpaper` | `ship` | `twitch` | `wanted` | `burn`
+  
+## > **Moderator**
+#####
+##### `unban` | `ban` | `clean` | `clear` | `kick` | `mute` | `setinvite` | `setwelcome` | `unmute` | `addrole` | `removerole` | `addemoji` | ` setsuggestion` | `setleave` | `lockchannel` | `unlockchannel` |
+#####
+## > **Music**
+#####
+##### `join` | `leave` | `loop` | `lyrics` | `nowplaying` | `pause` | `play` | `queue` | `resume` | `search` | `skip` | `stop` | `volume` |
+#####
+## > **Gif**
+##### 
+##### `beautiful` | `delete` | `kiss` | `pat` | `pray` | `slap` | `cuddle` | `search-gif` | `hug` | `love` | `poke` | `rip` | `tickle` |
+## > **Fun**
+#####
+##### `advice` | `binary` | `invite` | `calculate` | `meme` | `imovie` | `pick` | `ping` | `poll` | `remind` | `roast` | `screenshot` | `texttospeech` | `suggest` | `translate` | `weather` | `why` | `help`
+##### 
 
-> **Moderator**
-#####
-##### `unban` | `ban` | `clean` | `clear` | `kick` | `mute` | `setinvite` | `setwelcome` | `unmute` |
-#####
-> **Music**
-#####
-##### `loop` | `nowplaying` | `pause` | `play` | `queue` | `resume` | `skip`  | `stop`  | `volume` |
-> **Others**
-#####
-##### `help` | `invite` | `advice` | `calculate` | `meme` | `imovie` | `ping` |  `poll` | `suggest` | `translate` | `weather` |
-##### 
- > **React**
-##### 
-##### `beautiful` | `delete` | `kiss` | `pat` | `pray` | `slap` |
-##### 
+### If you wanna buy a bot like that with cheap price [contact me](https://discord.gg/zCmChpX) in [suppot server](https://discord.gg/zCmChpX) 
+
 ### If you wanna buy a bot like that with cheap prize [contact me](https://discord.gg/zCmChpX) and [support server](https://discord.gg/zCmChpX) 
 <a href="https://top.gg/bot/627531554255798282">
     <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
