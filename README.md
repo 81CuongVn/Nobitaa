@@ -32,5 +32,6 @@
       href="https://top.gg/bot/627531554255798282">
     <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
 </a>
+[![Discord Bots](https://top.gg/api/widget/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
 
 
