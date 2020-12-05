@@ -3,25 +3,25 @@
 # =============> [Nobita](https://discord.com/oauth2/authorize?client_id=627531554255798282&scope=bot&permissions=8) <=============
 ### Nobita is a powerful bot with 100+ commands *(updating..)*
 
- -  **Info**
+-  **Info**
 #####
 ##### `avatar` | `botinfo` | `corona` | `developer` | `donate` | `feedback` | `rolemember` | `instagram-user` | `link` | `roleinfo` | `serverinfo` | `tiktok-user` | `userinfo` | `wikipedia` | `wolf` | `snipe` |
    
-## - **Image**:
+- **Image**:
 ##### `dog` | `food` | `foxgirl` | `kemonomimi` | `magik` | `meow` | `neko` | `randomlogo` | `randomavatar` | `respect` | `randomwallpaper` | `ship` | `twitch` | `wanted` | `burn`
   
- - **Moderator**
+- **Moderator**
 #####
 ##### `unban` | `ban` | `clean` | `clear` | `kick` | `mute` | `setinvite` | `setwelcome` | `unmute` | `addrole` | `removerole` | `addemoji` | ` setsuggestion` | `setleave` | `lockchannel` | `unlockchannel` |
 #####
- - **Music**
+- **Music**
 #####
 ##### `join` | `leave` | `loop` | `lyrics` | `nowplaying` | `pause` | `play` | `queue` | `resume` | `search` | `skip` | `stop` | `volume` |
 #####
- - **Gif**
+- **Gif**
 ##### 
 ##### `beautiful` | `delete` | `kiss` | `pat` | `pray` | `slap` | `cuddle` | `search-gif` | `hug` | `love` | `poke` | `rip` | `tickle` |
- - **Fun**
+- **Fun**
 #####
 ##### `advice` | `binary` | `invite` | `calculate` | `meme` | `imovie` | `pick` | `ping` | `poll` | `remind` | `roast` | `screenshot` | `texttospeech` | `suggest` | `translate` | `weather` | `why` | `help`
 ##### 
