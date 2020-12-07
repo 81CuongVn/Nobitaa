@@ -1,6 +1,6 @@
 
 ## [Add bot](https://discord.com/oauth2/authorize?client_id=627531554255798282&scope=bot&permissions=8)
- ![Nobita](https://imgur.com/7YhKCoi) ![Nobita](https://cdn.discordapp.com/attachments/682768459435999232/784693050915553340/unknown.png)
+  ![Nobita](https://cdn.discordapp.com/attachments/682768459435999232/784693050915553340/unknown.png)
 ### Nobita is a powerful bot with 100+ commands *(updating..)*
 
 -  **Info**
