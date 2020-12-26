@@ -3,28 +3,31 @@
   ![Nobita](https://cdn.discordapp.com/attachments/682768459435999232/784693050915553340/unknown.png)
 ### Nobita is a powerful bot with 100+ commands *(updating..)*
 
--  **Info**
+- ✨ **FUN**
 #####
-##### `avatar` | `botinfo` | `corona` | `developer` | `donate` | `feedback` | `rolemember` | `instagram-user` | `link` | `roleinfo` | `serverinfo` | `tiktok-user` | `userinfo` | `wikipedia` | `wolf` | `snipe` |
+##### `advice` | `binary` | `chat` | `countdown2021` | `calculate` | `meme` | `imovie` | `motivation` | `pick` | `poll` | `remind` | `report` | `roast` | `screenshot` | `texttospeech` | `suggest` | `translate` | `urbandictionary` | `weather` | `why` | `playstore`| 
    
-- **Image**:
-##### `dog` | `food` | `foxgirl` | `kemonomimi` | `magik` | `meow` | `neko` | `randomlogo` | `randomavatar` | `respect` | `randomwallpaper` | `ship` | `twitch` | `wanted` | `burn`
-  
-- **Moderator**
+- 🎐 **GIF**:
+##### `baka ` | `beautiful ` | `cry ` | `cuddle ` | `calculate` | `delete ` | `goodnight ` | `ugay ` | `search-gif` | `hug ` | `kiss ` | `love ` | `palmface` | `pat` | `poke` | `pray` | `punch` | `rip` | `slap` | `tickle` | `wink`| 
 #####
-##### `unban` | `ban` | `clean` | `clear` | `kick` | `mute` | `setinvite` | `setwelcome` | `unmute` | `addrole` | `removerole` | `addemoji` | ` setsuggestion` | `setleave` | `lockchannel` | `unlockchannel` |
+- 📷 **IMAGE**
+##### 
+##### `dog` | `food` | `foxgirl` | `kemonomimi` | `kpop` | `magik` | `meow` | `nasaimage` | `neko` | `randomlogo` | `randomavatar` | `respect` | `randomwallpaper` | `ship` | `trigger` | `tweet` `twitch` | `wanted` | `burn` |
 #####
-- **Music**
+- ℹ️ **INFO**
+#####
+##### `ping` | `infoanime` | `avatar` | `botinfo` | `corona` | `developer` | `discordjs` | `donate` | `emoji` | `feedback` | `help` | `rolemember` | `instagram` | `invites` | `invite`|  `listemojis` `listroles` | `oldest` | `roleinfo` | `serverinfo` | `snipe` | `spotify` | `tiktok` | `userinfo` | `wikiorg` | `wikipedia` | `wolf` | `youngest`| 
+#####
+- 🎵 **MUSIC**
 #####
 ##### `join` | `leave` | `loop` | `lyrics` | `nowplaying` | `pause` | `play` | `queue` | `resume` | `search` | `skip` | `stop` | `volume` |
+
+- 🔨 **MODERATOR**
 #####
-- **Gif**
+##### `unban` | `addrole` | `ban` | `clean` | `clear` | `clearwarn` | `role` `addemoji` | `warns`  | `kick` | `lockchannel` | `mute` | `nuke` | `removerole` | `slowmode` | `templockchannel` | `topic` | `unlockchannel` | `unmute` | `warn`
 ##### 
-##### `beautiful` | `delete` | `kiss` | `pat` | `pray` | `slap` | `cuddle` | `search-gif` | `hug` | `love` | `poke` | `rip` | `tickle` |
-- **Fun**
-#####
-##### `advice` | `binary` | `invite` | `calculate` | `meme` | `imovie` | `pick` | `ping` | `poll` | `remind` | `roast` | `screenshot` | `texttospeech` | `suggest` | `translate` | `weather` | `why` | `help`
-##### 
+- 🛠️ **SETUP FEATURE CHANNELS**
+#### `setinvite` | `setlogging` | `setwelcome` | `setleave` | `setreport` | `setsuggestion`
 
 ### If you wanna buy a bot like that with cheap price [contact me](https://discord.gg/zCmChpX) in [suppot server](https://discord.gg/zCmChpX) 
 
