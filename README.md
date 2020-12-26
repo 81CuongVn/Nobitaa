@@ -7,7 +7,7 @@
 #####
 ##### `advice` | `binary` | `chat` | `countdown2021` | `calculate` | `meme` | `imovie` | `motivation` | `pick` | `poll` | `remind` | `report` | `roast` | `screenshot` | `texttospeech` | `suggest` | `translate` | `urbandictionary` | `weather` | `why` | `playstore`| 
    
-- 🎐 **GIF**:
+- 🎐 **GIF**
 ##### `baka ` | `beautiful ` | `cry ` | `cuddle ` | `calculate` | `delete ` | `goodnight ` | `ugay ` | `search-gif` | `hug ` | `kiss ` | `love ` | `palmface` | `pat` | `poke` | `pray` | `punch` | `rip` | `slap` | `tickle` | `wink`| 
 #####
 - 📷 **IMAGE**
