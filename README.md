@@ -1,6 +1,8 @@
 
 #### =================== [📌INVITE LINK📌](https://discord.com/oauth2/authorize?client_id=627531554255798282&scope=bot&permissions=8)===================
-  ![Nobita](https://cdn.discordapp.com/attachments/682768459435999232/784693050915553340/unknown.png)
+[![Discord Bots](https://top.gg/api/widget/owner/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
+[![Discord Bots](https://top.gg/api/widget/status/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
+[![Discord Bots](https://top.gg/api/widget/servers/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
 ### Nobita is a powerful bot with 100+ commands *(updating..)*
 
 - ✨ **FUN**
