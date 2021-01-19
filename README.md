@@ -35,6 +35,7 @@
       href="https://top.gg/bot/627531554255798282">
     <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
 </a>
+<iframe src="https://discord.com/widget?id=608671569966923779&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 
