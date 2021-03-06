@@ -4,6 +4,9 @@
 [![Discord Bots](https://top.gg/api/widget/status/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
 [![Discord Bots](https://top.gg/api/widget/servers/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
 ### Nobita is a powerful bot with 100+ commands *(updating..)*
+#####
+- 🎉 **Giveaway**
+`startgiveaway` | `endgiveaway` | `rerollgiveaway` | `startdrop`
 
 - ✨ **FUN**
 #####
@@ -31,10 +34,7 @@
 - 🛠️ **SETUP FEATURE CHANNELS**
 #### `setinvite` | `setlogging` | `setwelcome` | `setleave` | `setreport` | `setsuggestion`
 ####
-- 🔈 **TEXT TO SPEECH [6]**
-#### `speak` | `setlang` | `listlang` | `ttsstop` | `speed` | `aeiou`
-####
-- ⚠ **SECRET COMMANDS [11]**
+- ⚠ **SECRET COMMANDS [16]**
 #### 
 ### If you wanna buy a bot like that with cheap price [contact me](https://discord.gg/zCmChpX) in [suppot server](https://discord.gg/zCmChpX) 
 [![widget](https://discordapp.com/api/v7/guilds/608671569966923779/widget.png?style=banner3)](https://discord.gg/zCmChpX)
