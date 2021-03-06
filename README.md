@@ -6,7 +6,8 @@
 ### Nobita is a powerful bot with 100+ commands *(updating..)*
 #####
 - 🎉 **Giveaway**
-`startgiveaway` | `endgiveaway` | `rerollgiveaway` | `startdrop`
+#####
+##### `startgiveaway` | `endgiveaway` | `rerollgiveaway` | `startdrop`
 
 - ✨ **FUN**
 #####
