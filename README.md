@@ -3,7 +3,7 @@
 [![Discord Bots](https://top.gg/api/widget/owner/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
 [![Discord Bots](https://top.gg/api/widget/status/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
 [![Discord Bots](https://top.gg/api/widget/servers/627531554255798282.svg)](https://top.gg/bot/627531554255798282)
-[![Nobita](https://i.imgur.com/TGpNglQ.jpg)](https://top.gg/bot/627531554255798282)
+
 ### Nobita is a powerful bot with 100+ commands *(updating..)*
 #####
 - 🎉 **Giveaway**
