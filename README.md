@@ -44,7 +44,7 @@
       href="https://top.gg/bot/627531554255798282">
     <img src="https://top.gg/api/widget/627531554255798282.svg" alt="Nobita" />
 </a>
-[![Nobita](https://imgur.com/Ngbg2f5)(https://top.gg/bot/627531554255798282)
+[![Nobita](https://i.imgur.com/Ngbg2f5.png)(https://top.gg/bot/627531554255798282)
 
 
 
